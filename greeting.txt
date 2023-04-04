@@ -1,0 +1,13 @@
+hi
+hi
+hi
+hi
+total 16
+drwxr-xr-x  5 max  staff  160  4 Apr 10:24 assets
+drwxr-xr-x  7 max  staff  224  4 Apr 10:08 dir3
+-rw-r--r--  1 max  staff   12  4 Apr 10:50 greeting.txt
+-rw-r--r--  1 max  staff   17  4 Apr 10:38 greeting2.txt
+-rw-r--r--  1 max  staff    0  4 Apr 08:13 style.css
+drwxr-xr-x  2 max  staff   64  4 Apr 10:49 test
+drwxr-xr-x  2 max  staff   64  4 Apr 10:52 test1
+drwxr-xr-x  2 max  staff   64  4 Apr 10:53 test2
